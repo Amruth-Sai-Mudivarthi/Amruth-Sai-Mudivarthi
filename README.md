@@ -1,5 +1,4 @@
 # Hi there, I'm Amruth Sai 👋
-### Computer Science Student | Full Stack Developer | Tech Enthusiast
 
 <div align="center">
   
@@ -11,6 +10,25 @@
     </a>
   </p>
 
+</div>
+
+---
+
+## 🌐 **Connect With Me**
+
+<div align="center">
+
+<p align="left">
+  <a href="https://linkedin.com/in/amruth-sai-mudivarthi-62b742268" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="mailto:amruthsai2004@gmail.com" target="blank">
+    <img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Gmail" height="30" width="40" />
+  </a>
+  <a href="https://portfolio-sob3.vercel.app/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="Portfolio" height="30" width="40" />
+  </a>
+</p>
 </div>
 
 ---
@@ -66,25 +84,6 @@
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Amruth-Sai-Mudivarthi&bg_color=0D1117&color=ffffff&line=00d451&point=00d451&area=true&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph" />
-</div>
-
----
-
-## 🌐 **Connect With Me**
-
-<div align="center">
-
-<p align="left">
-  <a href="https://linkedin.com/in/amruth-sai-mudivarthi-62b742268" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="mailto:amruthsai2004@gmail.com" target="blank">
-    <img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Gmail" height="30" width="40" />
-  </a>
-  <a href="https://portfolio-sob3.vercel.app/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="Portfolio" height="30" width="40" />
-  </a>
-</p>
 </div>
 
 ---
