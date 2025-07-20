@@ -17,7 +17,7 @@
 ## 🚀 About Me
 
 <div align="center">
-  <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+  <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
   
 ```javascript
 const amruthSai = {
@@ -48,7 +48,7 @@ const amruthSai = {
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&animation=pulse)](https://linkedin.com/in/amruth-sai-mudivarthi-62b742268)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amruth-sai-mudivarthi-62b742268)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amruthsai2004@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio-sob3.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Amruth-Sai-Mudivarthi)
@@ -91,14 +91,25 @@ const amruthSai = {
 
 <div align="center">
   
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Amruth-Sai-Mudivarthi&show_icons=true&count_private=true&hide_border=true&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" alt="Amruth Sai GitHub Stats" /> 
-  
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amruth-Sai-Mudivarthi&layout=compact&hide_border=true&title_color=ff652f&bg_color=09131B&text_color=ffffff&border_color=0c1a25" alt="Amruth Sai Most Languages" />
+<table>
+<tr>
+<td width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Amruth-Sai-Mudivarthi&show_icons=true&count_private=true&hide_border=true&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" alt="GitHub Stats" />
+
+</td>
+<td width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amruth-Sai-Mudivarthi&layout=compact&hide_border=true&title_color=ff652f&bg_color=09131B&text_color=ffffff&border_color=0c1a25&langs_count=8" alt="Top Languages" />
+
+</td>
+</tr>
+</table>
 
 </div>
 
 <div align="center">
-  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=Amruth-Sai-Mudivarthi&theme=black-ice&hide_border=true&stroke=0000&background=09131B&ring=ff652f&fire=ff652f&currStreakLabel=ff652f" alt="Amruth Sai Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amruth-Sai-Mudivarthi&theme=black-ice&hide_border=true&stroke=0000&background=09131B&ring=ff652f&fire=ff652f&currStreakLabel=ff652f" alt="GitHub Streak Stats" />
 </div>
 
 ---
@@ -106,7 +117,7 @@ const amruthSai = {
 ## 📈 Activity Graph
 
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Amruth-Sai-Mudivarthi&bg_color=09131b&color=ffffff&line=ff652f&point=ff652f&area=true&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Amruth-Sai-Mudivarthi&bg_color=09131b&color=ffffff&line=ff652f&point=ff652f&area=true&hide_border=true" alt="Contribution Graph" />
 </div>
 
 ---
@@ -114,7 +125,7 @@ const amruthSai = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Amruth-Sai-Mudivarthi&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Amruth-Sai-Mudivarthi&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -122,20 +133,18 @@ const amruthSai = {
 ## 🔥 Current Focus
 
 <div align="center">
-  
-  ```yaml
-  Currently Working On:
-    - 🌱 Learning Advanced React Patterns
-    - 🚀 Building Full Stack Applications
-    - 📚 Exploring System Design Concepts
-    - 🤝 Contributing to Open Source Projects
-    
-  Goals for 2025:
-    - 🎯 Master Full Stack Development
-    - 🏆 Contribute to Major Open Source Projects
-    - 📈 Build Portfolio of Real-World Applications
-    - 🚀 Land an Internship at a Tech Company
-  ```
+
+### 💼 What I'm Working On
+- 🌱 Learning **Advanced React Patterns**
+- 🚀 Building **Full Stack Applications**
+- 📚 Exploring **System Design Concepts**
+- 🤝 Contributing to **Open Source Projects**
+
+### 🎯 2025 Goals
+- 🏆 Master **Full Stack Development**
+- 📈 Build **Portfolio of Real-World Applications**
+- 🚀 Land an **Internship at a Tech Company**
+- 🌟 Contribute to **Major Open Source Projects**
 
 </div>
 
@@ -149,10 +158,14 @@ const amruthSai = {
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍 GitHub Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Amruth-Sai-Mudivarthi/Amruth-Sai-Mudivarthi/output/snake.svg" alt="Snake Animation" />
+
+![Snake animation](https://raw.githubusercontent.com/Amruth-Sai-Mudivarthi/Amruth-Sai-Mudivarthi/output/snake.svg)
+
+*Note: To enable the snake animation, you'll need to set up GitHub Actions in your profile repository.*
+
 </div>
 
 ---
@@ -161,17 +174,23 @@ const amruthSai = {
 
 <div align="center">
   
-  **I'm always interested in hearing about new opportunities and interesting projects!**
+  **🚀 I'm always interested in hearing about new opportunities and interesting projects!**
+  
+  <br>
   
   📧 **Email:** [amruthsai2004@gmail.com](mailto:amruthsai2004@gmail.com)  
   🌐 **Portfolio:** [portfolio-sob3.vercel.app](https://portfolio-sob3.vercel.app/)  
-  💼 **LinkedIn:** [amruth-sai-mudivarthi](https://linkedin.com/in/amruth-sai-mudivarthi-62b742268)
+  💼 **LinkedIn:** [amruth-sai-mudivarthi](https://linkedin.com/in/amruth-sai-mudivarthi-62b742268)  
+  🐙 **GitHub:** [Amruth-Sai-Mudivarthi](https://github.com/Amruth-Sai-Mudivarthi)
 
 </div>
+
+---
 
 <!-- Animated Footer -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
 
 <div align="center">
-  <h3>⭐️ From <a href="https://github.com/Amruth-Sai-Mudivarthi">Amruth Sai</a> with ❤️</h3>
+  <h3>✨ Thanks for visiting my profile! ✨</h3>
+  <p>⭐️ From <a href="https://github.com/Amruth-Sai-Mudivarthi">Amruth Sai</a> with ❤️</p>
 </div>
