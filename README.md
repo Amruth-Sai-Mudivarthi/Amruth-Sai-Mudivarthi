@@ -12,20 +12,21 @@
   </p>
 
   <!-- Social Media Links -->
-  <p>
-  <a href="https://linkedin.com/in/amruth-sai-mudivarthi-62b742268" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" height="40"/>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://linkedin.com/in/amruth-sai-mudivarthi-62b742268" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Amruth Sai Mudivarthi" height="30" width="40" />
   </a>
-  <a href="mailto:amruthsai2004@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" height="40"/>
+  <a href="mailto:amruthsai2004@gmail.com" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Amruth Sai Mudivarthi" height="30" width="40" />
   </a>
-  <a href="https://portfolio-sob3.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/-Portfolio-4285F4?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio" height="40"/>
+  <a href="https://github.com/Amruth-Sai-Mudivarthi" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Amruth Sai Mudivarthi" height="30" width="40" />
   </a>
-  <a href="https://github.com/Amruth-Sai-Mudivarthi" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" height="40"/>
+  <a href="https://portfolio-sob3.vercel.app/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="Portfolio" height="30" width="40" />
   </a>
-  </p>
+</p>
 
 </div>
 
