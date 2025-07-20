@@ -1,7 +1,7 @@
 <!--
 Hello, Amruth! 👋
-I've fixed the broken image links for you.
-The last step is to replace your-github-username in the URLs for the stats and graphs at the bottom with your actual GitHub username.
+This is the complete and corrected file. All image and social links have been fixed.
+The final step is to replace your-github-username in the URLs for the stats and graphs at the bottom with your actual GitHub username.
 -->
 
 <!-- Center-aligned Header with Waving Hand Animation -->
