@@ -13,18 +13,18 @@
 
   <!-- Social Media Links -->
   <p>
-    <a href="https://linkedin.com/in/amruth-sai-mudivarthi-62b742268">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
-    <a href="mailto:amruthsai2004@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-    </a>
-    <a href="https://portfolio-sob3.vercel.app/">
-      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
-    </a>
-    <a href="https://github.com/Amruth-Sai-Mudivarthi">
-      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-    </a>
+  <a href="https://linkedin.com/in/amruth-sai-mudivarthi-62b742268" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" height="40"/>
+  </a>
+  <a href="mailto:amruthsai2004@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" height="40"/>
+  </a>
+  <a href="https://portfolio-sob3.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/-Portfolio-4285F4?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio" height="40"/>
+  </a>
+  <a href="https://github.com/Amruth-Sai-Mudivarthi" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" height="40"/>
+  </a>
   </p>
 
 </div>
