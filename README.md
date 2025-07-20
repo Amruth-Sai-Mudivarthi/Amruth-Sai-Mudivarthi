@@ -2,12 +2,31 @@
 ### Computer Science Student | Full Stack Developer | Tech Enthusiast
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Amruth-Sai-Mudivarthi&label=Profile%20views&color=00d451&style=for-the-badge" alt="Profile views" /> 
-  <a href="https://github.com/Amruth-Sai-Mudivarthi?tab=followers">
-    <img src="https://img.shields.io/github/followers/Amruth-Sai-Mudivarthi?label=Followers&style=for-the-badge&color=00d451&labelColor=2ea043" alt="GitHub followers">
-  </a>
-  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-00d451?style=for-the-badge&labelColor=2ea043" alt="Focus">
-  <img src="https://img.shields.io/badge/Lives-Chennai,%20India-00d451?style=for-the-badge&labelColor=2ea043" alt="Location">
+  
+  <!-- Profile Stats Row -->
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=Amruth-Sai-Mudivarthi&label=Profile%20views&color=00d451&style=for-the-badge&logo=eye" alt="Profile views" />
+    <a href="https://github.com/Amruth-Sai-Mudivarthi?tab=followers">
+      <img src="https://img.shields.io/github/followers/Amruth-Sai-Mudivarthi?label=Followers&style=for-the-badge&color=00d451&labelColor=2ea043&logo=github" alt="GitHub followers">
+    </a>
+  </p>
+
+  <!-- Social Media Links -->
+  <p>
+    <a href="https://linkedin.com/in/amruth-sai-mudivarthi-62b742268">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="mailto:amruthsai2004@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    </a>
+    <a href="https://portfolio-sob3.vercel.app/">
+      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+    </a>
+    <a href="https://github.com/Amruth-Sai-Mudivarthi">
+      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    </a>
+  </p>
+
 </div>
 
 ---
@@ -16,16 +35,23 @@
 
 <div align="center">
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS"/>
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+</p>
 
 </div>
 
@@ -98,7 +124,6 @@
 </div>
 
 ---
-
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00d451&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=ffffff&animation=twinkling" alt="Footer" />
