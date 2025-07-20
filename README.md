@@ -1,196 +1,76 @@
-<!-- Animated Header with Typing Effect -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey+there!+I'm+Amruth+Sai+👋;Computer+Science+Student+🎓;Full+Stack+Developer+💻;Always+learning+new+things+🚀" alt="Typing SVG" />
-</div>
+# Hi there, I'm Amruth Sai 👋
+
+### Computer Science Student | Full Stack Developer | Tech Enthusiast
 
 <div align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px" />
-  <h2>Welcome to my GitHub Profile!</h2>
-  <img src="https://komarev.com/ghpvc/?username=Amruth-Sai-Mudivarthi&style=flat-square&color=blue" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Amruth-Sai-Mudivarthi&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> 
+  <a href="https://github.com/Amruth-Sai-Mudivarthi?tab=followers">
+    <img src="https://img.shields.io/github/followers/Amruth-Sai-Mudivarthi?label=Followers&style=social" alt="GitHub followers">
+  </a>
 </div>
-
-<!-- Animated Divider -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header"/>
 
 ---
 
-## 🚀 About Me
+## 🛠️ Tech Stack
+
+**Frontend:**  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+**Backend:**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+**Databases:**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+**Tools:**  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
-  <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-  
-```javascript
-const amruthSai = {
-    pronouns: "He/Him",
-    location: "Tamil Nadu, India 🇮🇳",
-    education: "Computer Science @ KARE 🎓",
-    currentStatus: "Learning & Building 💡",
-    
-    code: ["JavaScript", "Python", "HTML", "CSS"],
-    technologies: {
-        frontEnd: ["React", "HTML5", "CSS3", "Tailwind CSS"],
-        backEnd: ["Node.js", "Express.js", "Python"],
-        databases: ["PostgreSQL", "MongoDB"],
-        tools: ["Git", "VS Code", "Figma"]
-    },
-    
-    currentFocus: "Full Stack Web Development",
-    funFact: "I debug with console.log() and I'm proud of it! 🐛"
-};
-```
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Amruth-Sai-Mudivarthi&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amruth-Sai-Mudivarthi&layout=compact&theme=radical" />
 </div>
 
-<br clear="both" />
+<div align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Amruth-Sai-Mudivarthi&theme=radical" />
+</div>
 
 ---
 
 ## 🌐 Connect With Me
 
-<div align="center">
-  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amruth-sai-mudivarthi-62b742268)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amruthsai2004@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio-sob3.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Amruth-Sai-Mudivarthi)
 
+---
+
+## 📌 Pinned Repositories
+
+<div align="center">
+  <a href="https://github.com/Amruth-Sai-Mudivarthi/[YOUR-REPO-1]">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Amruth-Sai-Mudivarthi&repo=[YOUR-REPO-1]&theme=radical" />
+  </a>
+  <a href="https://github.com/Amruth-Sai-Mudivarthi/[YOUR-REPO-2]">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Amruth-Sai-Mudivarthi&repo=[YOUR-REPO-2]&theme=radical" />
+  </a>
 </div>
 
 ---
 
-## 💻 Tech Stack & Tools
-
 <div align="center">
-
-### 🖥️ Languages
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### ⚛️ Frameworks & Libraries
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### 🗃️ Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### 🛠️ Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
-</div>
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-  
-<table>
-<tr>
-<td width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Amruth-Sai-Mudivarthi&show_icons=true&count_private=true&hide_border=true&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" alt="GitHub Stats" />
-
-</td>
-<td width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amruth-Sai-Mudivarthi&layout=compact&hide_border=true&title_color=ff652f&bg_color=09131B&text_color=ffffff&border_color=0c1a25&langs_count=8" alt="Top Languages" />
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amruth-Sai-Mudivarthi&theme=black-ice&hide_border=true&stroke=0000&background=09131B&ring=ff652f&fire=ff652f&currStreakLabel=ff652f" alt="GitHub Streak Stats" />
-</div>
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Amruth-Sai-Mudivarthi&bg_color=09131b&color=ffffff&line=ff652f&point=ff652f&area=true&hide_border=true" alt="Contribution Graph" />
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Amruth-Sai-Mudivarthi&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-</div>
-
----
-
-## 🔥 Current Focus
-
-<div align="center">
-
-### 💼 What I'm Working On
-- 🌱 Learning **Advanced React Patterns**
-- 🚀 Building **Full Stack Applications**
-- 📚 Exploring **System Design Concepts**
-- 🤝 Contributing to **Open Source Projects**
-
-### 🎯 2025 Goals
-- 🏆 Master **Full Stack Development**
-- 📈 Build **Portfolio of Real-World Applications**
-- 🚀 Land an **Internship at a Tech Company**
-- 🌟 Contribute to **Major Open Source Projects**
-
-</div>
-
----
-
-## 💡 Random Dev Quote
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
-</div>
-
----
-
-## 🐍 GitHub Contribution Snake
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/Amruth-Sai-Mudivarthi/Amruth-Sai-Mudivarthi/output/snake.svg)
-
-*Note: To enable the snake animation, you'll need to set up GitHub Actions in your profile repository.*
-
-</div>
-
----
-
-## 📫 Let's Connect!
-
-<div align="center">
-  
-  **🚀 I'm always interested in hearing about new opportunities and interesting projects!**
-  
-  <br>
-  
-  📧 **Email:** [amruthsai2004@gmail.com](mailto:amruthsai2004@gmail.com)  
-  🌐 **Portfolio:** [portfolio-sob3.vercel.app](https://portfolio-sob3.vercel.app/)  
-  💼 **LinkedIn:** [amruth-sai-mudivarthi](https://linkedin.com/in/amruth-sai-mudivarthi-62b742268)  
-  🐙 **GitHub:** [Amruth-Sai-Mudivarthi](https://github.com/Amruth-Sai-Mudivarthi)
-
-</div>
-
----
-
-<!-- Animated Footer -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
-
-<div align="center">
-  <h3>✨ Thanks for visiting my profile! ✨</h3>
-  <p>⭐️ From <a href="https://github.com/Amruth-Sai-Mudivarthi">Amruth Sai</a> with ❤️</p>
+  <h3>Thanks for visiting! ❤️</h3>
+  <p>Feel free to connect with me on any platform</p>
 </div>
