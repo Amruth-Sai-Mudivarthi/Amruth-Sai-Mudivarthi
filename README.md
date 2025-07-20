@@ -1,3 +1,8 @@
+<!--
+Hello, Amruth! 👋
+I've fixed the broken image links for you.
+The last step is to replace your-github-username in the URLs for the stats and graphs at the bottom with your actual GitHub username.
+-->
 
 <!-- Center-aligned Header with Waving Hand Animation -->
 
@@ -19,7 +24,7 @@ I'm a self-taught developer who loves building beautiful and functional web appl
 <!-- Social Media and Contact Links -->
 
 <div align="center">
-<a href="https://www.google.com/search?q=linkedin.com/in/amruth-sai-mudivarthi-62b742268" target="_blank">
+<a href="https://www.google.com/search?q=https://linkedin.com/in/amruth-sai-mudivarthi-62b742268" target="_blank">
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-%25230077B5.svg%3F%26style%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn" />
 </a>
 <a href="mailto:amruthsai2004@gmail.com" target="_blank">
@@ -36,7 +41,6 @@ I'm a self-taught developer who loves building beautiful and functional web appl
 
 <h2 align="center">My Tech Stack 💻</h2>
 <div align="center">
-<p>
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/Python-3776AB%3Fstyle%3Dfor-the-badge%26logo%3Dpython%26logoColor%3Dwhite" alt="Python" />
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/HTML5-E34F26%3Fstyle%3Dfor-the-badge%26logo%3Dhtml5%26logoColor%3Dwhite" alt="HTML5" />
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/CSS3-1572B6%3Fstyle%3Dfor-the-badge%26logo%3Dcss3%26logoColor%3Dwhite" alt="CSS3" />
@@ -45,7 +49,6 @@ I'm a self-taught developer who loves building beautiful and functional web appl
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/Tailwind_CSS-38B2AC%3Fstyle%3Dfor-the-badge%26logo%3Dtailwind-css%26logoColor%3Dwhite" alt="Tailwind CSS" />
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/PostgreSQL-316192%3Fstyle%3Dfor-the-badge%26logo%3Dpostgresql%26logoColor%3Dwhite" alt="PostgreSQL" />
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/Git-F05032%3Fstyle%3Dfor-the-badge%26logo%3Dgit%26logoColor%3Dwhite" alt="Git" />
-</p>
 </div>
 
 <hr/>
@@ -54,14 +57,12 @@ I'm a self-taught developer who loves building beautiful and functional web appl
 
 <h2 align="center">My GitHub Stats 📊</h2>
 <div align="center">
-<!-- GitHub Stats Card -->
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dyour-github-username%26show_icons%3Dtrue%26theme%3Dtokyonight%26count_private%3Dtrue%26hide_border%3Dtrue%26include_all_commits%3Dtrue" alt="GitHub Stats" />
+<!-- IMPORTANT: Replace your-github-username with your actual username -->
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DAmruth-Sai-Mudivarthi%26show_icons%3Dtrue%26theme%3Dtokyonight%26count_private%3Dtrue%26hide_border%3Dtrue%26include_all_commits%3Dtrue" alt="GitHub Stats" />
 <br/>
-<!-- Top Languages Card -->
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dyour-github-username%26layout%3Dcompact%26theme%3Dtokyonight%26hide_border%3Dtrue%26langs_count%3D8" alt="Top Languages" />
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DAmruth-Sai-Mudivarthi%26layout%3Dcompact%26theme%3Dtokyonight%26hide_border%3Dtrue%26langs_count%3D8" alt="Top Languages" />
 <br/>
-<!-- GitHub Streak Stats -->
-<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3Dyour-github-username%26theme%3Dtokyonight%26hide_border%3Dtrue" alt="GitHub Streak" />
+<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3DAmruth-Sai-Mudivarthi%26theme%3Dtokyonight%26hide_border%3Dtrue" alt="GitHub Streak" />
 </div>
 
 <hr/>
@@ -70,7 +71,8 @@ I'm a self-taught developer who loves building beautiful and functional web appl
 
 <h2 align="center">My Contribution Graph 📈</h2>
 <div align="center">
-<img src="https://www.google.com/search?q=https://github-readme-activity-graph.vercel.app/graph%3Fusername%3Dyour-github-username%26theme%3Dtokyonight%26hide_border%3Dtrue%26bg_color%3D1a1b27" alt="Contribution Graph" />
+<!-- IMPORTANT: Replace your-github-username with your actual username -->
+<img src="https://www.google.com/search?q=https://github-readme-activity-graph.vercel.app/graph%3Fusername%3DAmruth-Sai-Mudivarthi%26theme%3Dtokyonight%26hide_border%3Dtrue%26bg_color%3D1a1b27" alt="Contribution Graph" />
 </div>
 
 <hr/>
@@ -78,7 +80,8 @@ I'm a self-taught developer who loves building beautiful and functional web appl
 <!-- Profile Views Counter -->
 
 <div align="center">
-<img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3Dyour-github-username%26style%3Dfor-the-badge%26color%3Dbrightgreen" alt="Profile Views" />
+<!-- IMPORTANT: Replace your-github-username with your actual username -->
+<img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3DAmruth-Sai-Mudivarthi%26style%3Dfor-the-badge%26color%3Dbrightgreen" alt="Profile Views" />
 </div>
 
 <!-- Footer -->
