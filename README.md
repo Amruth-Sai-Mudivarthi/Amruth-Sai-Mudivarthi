@@ -60,10 +60,10 @@
 ## 📌 Pinned Repositories
 
 <div align="center">
-  <a href="https://github.com/Amruth-Sai-Mudivarthi/[YOUR-REPO-1]">
+  <a href="https://github.com/Amruth-Sai-Mudivarthi/[Rice-Leaf-Disease-Diagnosis-using-Custom-CNN]">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Amruth-Sai-Mudivarthi&repo=[Rice-Leaf-Disease-Diagnosis-using-Custom-CNN]&theme=radical" />
   </a>
-  <a href="https://github.com/Amruth-Sai-Mudivarthi/[YOUR-REPO-2]">
+  <a href="https://github.com/Amruth-Sai-Mudivarthi/[Health-Companion]">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Amruth-Sai-Mudivarthi&repo=[Health-Companion]&theme=radical" />
   </a>
 </div>
